@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Tema aplikasi dasar, tergantung pada tingkat API. Tema ini diganti
+         oleh AppBaseTema dari res / values-vXX / styles.xml pada perangkat yang lebih baru.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Penyesuaian tema yang tersedia di tingkat API yang lebih baru bisa masuk
+             res / values-vXX / styles.xml, sementara kustomisasi terkait
+             kompatibilitas ke belakang bisa masuk kesini.
+        -->
+    </style>
+
+    <!-- Tema aplikasi. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+	
+    </style>
+    
+
+    <drawable name="actionBarColor">#EFF2F3</drawable>
+
+</resources>

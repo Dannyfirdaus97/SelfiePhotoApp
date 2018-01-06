@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gama.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\gama.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera2.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\camera2.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\effect_btn_selector.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\effect_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_image_border.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\list_image_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sepia.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\sepia.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\undo.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\undo.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera1.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\camera1.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snow.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\snow.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\grey.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera3.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\camera3.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Selfie Photo App\\app\\src\\main\\res\\drawable\\camera.png"
+    }
+]

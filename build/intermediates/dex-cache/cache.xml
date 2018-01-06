@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\Selfie Photo App\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_98ee1e7b19c17427652de2f5b33f4c8274c6febe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\Selfie Photo App\app\libs\GoogleAdMobAdsSdk-6.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6262c554ef5744538d526465aa73704810705734">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\Selfie Photo App\app\build\intermediates\pre-dexed\debug\GoogleAdMobAdsSdk-6.4.1_c4f4ed5f362f6811e913c7b68db41d4301173666.jar" />
+    </item>
+
+</items>

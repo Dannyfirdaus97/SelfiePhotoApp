@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="grid_image_padding">3dp</dimen>
+    <drawable name="actionBarColor">#EFF2F3</drawable>
+    <string name="admob_id">a152aae6541a0af</string>
+    <string name="app_name">Smart Selfie</string>
+    <string name="ratethisapp_msg">If you like this app.Please take a moment to rate this app.It would\'t take more than a minute.\nEnjoy!</string>
+    <string name="ratethisapp_title">Rate this App.</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Penyesuaian tema yang tersedia di tingkat API yang lebih baru bisa masuk
+             res / values-vXX / styles.xml, sementara kustomisasi terkait
+             kompatibilitas ke belakang bisa masuk kesini.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+	
+    </style>
+</resources>

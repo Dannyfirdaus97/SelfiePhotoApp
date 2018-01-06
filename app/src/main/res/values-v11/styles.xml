@@ -1,0 +1,12 @@
+<resources>
+
+    <!--
+        Tema aplikasi dasar untuk API 11+. Tema ini sepenuhnya menggantikan
+         AppBaseTema dari res / values / styles.xml pada perangkat API 11+.
+    -->
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light">
+        <!-- Penyesuaian tema API 11 bisa masuk kesini. -->
+        
+    </style>
+	
+</resources>

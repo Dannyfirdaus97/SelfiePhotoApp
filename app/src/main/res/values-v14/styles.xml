@@ -1,0 +1,12 @@
+<resources>
+
+    <!--
+        Tema aplikasi dasar untuk API 14+. Tema ini sepenuhnya menggantikan
+         AppBaseTheme dari KEDUA res / values / styles.xml dan
+         res / values-v11 / styles.xml pada perangkat API 14+.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- Penyesuaian tema API 14 bisa masuk kesini. -->
+    </style>
+
+</resources>

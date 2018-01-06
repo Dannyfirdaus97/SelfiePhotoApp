@@ -1,0 +1,9 @@
+<resources>
+
+    <!--
+         Sesuaikan dimensi yang semula didefinisikan dalam res / values / dimens.xml (seperti
+          margin layar) untuk perangkat sw720dp (misalnya tablet 10 ") di bentang alam di sini.
+    -->
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+
+</resources>

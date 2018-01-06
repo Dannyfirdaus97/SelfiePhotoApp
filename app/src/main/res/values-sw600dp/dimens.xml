@@ -1,0 +1,8 @@
+<resources>
+
+    <!--
+         Sesuaikan dimensi yang semula didefinisikan dalam res / values / dimens.xml (seperti
+          margin layar) untuk perangkat sw600dp (misalnya tablet 7 inci) di sini.
+    -->
+
+</resources>
